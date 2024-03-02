@@ -1,23 +1,16 @@
-# bsDoubIMDB
+
+# douban something
 
 
-find IMDB and Douban by film's name 
 
+## bsDoubIMDB
 根据电影名，找豆瓣词条页和IMDB页
 
-20230330
+## filmTagger
+豆瓣电影词条标注
 
+## grabTop250
+获得豆瓣前250电影信息
 
-```
-Param:
-
-filmlist = [电影名称]
-```
-
-
-
-```
-CMD:
-
-python3 find_imdb_douban_by_filmname.py
-```
+## scoreMonitor
+定期获得豆瓣词条评分信息
